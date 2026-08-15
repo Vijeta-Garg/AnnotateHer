@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ada Lovelace",
+    "qid": "Q7259",
+    "context": "Ada Lovelace worked with Charles Babbage and developed an algorithm for computing Bernoulli numbers.",
+    "tags": {
+      "discovery": [
+        {
+          "label": "Ada Lovelace’ algorithm for computing Bernoulli numbers"
+        }
+      ],
+      "people_associated": [
+        {
+          "label": "Charles Babbage"
+        }
+      ],
+      "award_honored": []
+    }
+  },
+  {
+    "name": "Charles Babbage",
+    "qid": "Q46633",
+    "context": "Ada Lovelace worked with Charles Babbage and developed an algorithm for computing Bernoulli numbers.",
+    "tags": {
+      "discovery": [
+        {
+          "label": "analytical engine"
+        }
+      ],
+      "people_associated": [
+        {
+          "label": "Ada Lovelace"
+        }
+      ],
+      "award_honored": []
+    }
+  }
+]
