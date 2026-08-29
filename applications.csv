@@ -1,0 +1,93 @@
+applicationID,name,field,description
+A001,Prenatal karyotyping,Genetics / Medicine,"Chromosome analysis can be used in prenatal diagnosis to identify chromosomal abnormalities such as Down syndrome, Turner syndrome, and Klinefelter syndrome."
+A002,Sex-linked disease tracking,Genetics / Medicine,Understanding sex chromosomes provides a basis for tracking and studying diseases whose inheritance is linked to the X or Y chromosome.
+A003,Cancer chromosomal mapping,Cancer Biology / Genetics,Chromosomal mapping helps researchers identify chromosomal abnormalities and genomic changes associated with cancer.
+A004,Plant genetics,Genetics / Botany,Chromosome-based understanding of heredity provides a foundation for studying inheritance and genetic traits in plants.
+A005,Nuclear power,Energy / Nuclear Physics,"Nuclear fission provides the physical basis for nuclear power plants, where controlled nuclear chain reactions generate energy."
+A006,Radioisotope thermoelectric generators,Space Technology / Nuclear Physics,Radioactive decay can generate electricity for spacecraft and deep-space missions through radioisotope thermoelectric generators.
+A007,Positron emission tomography (PET),Medical Imaging / Nuclear Medicine,"Radioisotopes and nuclear physics provide the basis for PET imaging, which uses radioactive tracers to produce functional images of the body."
+A008,Radiotherapy,Medicine / Oncology,Radioactive processes and radiation physics are used to target and destroy cancer cells in radiation therapy.
+A009,Nuclear weapons,Nuclear Physics / Military Technology,The physics of nuclear fission contributed to the development of nuclear weapons.
+A010,Auger electron spectroscopy,Materials Science / Surface Science,Auger electrons can be measured to determine the elemental composition and chemical state of material surfaces.
+A011,Semiconductor manufacturing,Materials Science / Electronics,Auger electron spectroscopy can be used to characterize semiconductor surfaces and investigate materials during manufacturing.
+A012,Corrosion analysis,Materials Science / Engineering,"Surface-analysis techniques can identify elemental changes, grain boundaries, and early oxidation processes involved in material corrosion."
+A013,Cosmic dust analysis,Astrophysics / Materials Science,Auger electron spectroscopy can be used to analyze the composition and properties of extraterrestrial particles and cosmic dust.
+A014,Pion discovery research,Particle Physics,Photographic nuclear emulsions enabled researchers to detect and study particle interactions that contributed to the discovery and investigation of pions.
+A015,High-energy particle accelerator research,Particle Physics,Nuclear-emulsion techniques allowed researchers to visualize and map interactions of high-energy protons in particle accelerators.
+A016,Carbon-14 dating,Archaeology / Geochemistry,"Research into neutron interactions and nuclear processes contributed to the development of radiocarbon dating, which is used to estimate the age of once-living materials."
+A017,DNA structural biology,Molecular Biology / Biophysics,X-ray diffraction methods provide structural information that allows researchers to determine the three-dimensional organization of DNA and other biological molecules.
+A018,DNA sequencing,Genetics / Molecular Biology,Structural and molecular understanding of DNA contributed to the development of modern approaches for studying and sequencing genetic material.
+A019,Human Genome Project,Genomics / Genetics,Knowledge of DNA structure and molecular biology provided foundational scientific knowledge for sequencing and interpreting the human genome.
+A020,Molecular virology,Molecular Biology / Virology,Structural analysis of RNA viruses enables researchers to understand viral architecture and molecular mechanisms.
+A021,Vaccine development,Immunology / Medicine,Structural and molecular studies of viruses help researchers understand pathogens and develop targeted vaccines and antiviral strategies.
+A022,Structure-based drug design,Pharmaceutical Science / Medicine,Protein and molecular structure determination enables researchers to design drugs that interact with specific molecular targets.
+A023,Pulsar astronomy,Astrophysics / Astronomy,"Pulsars provide precise astronomical objects for studying neutron stars, magnetic fields, stellar evolution, and extreme physical conditions."
+A024,Tests of general relativity,Astrophysics / Physics,"Precise pulsar timing allows researchers to test predictions of general relativity, including effects in binary-pulsar systems."
+A025,Gravitational-wave detection,Astrophysics / Gravitational-wave Astronomy,Pulsar timing arrays use precisely timed millisecond pulsars to search for low-frequency gravitational waves.
+A026,Spacecraft navigation,Aerospace / Space Technology,The highly regular signals from pulsars can be used as natural celestial reference points for spacecraft navigation.
+A027,Memory research,Experimental Psychology,"Paired-associate learning experiments provide a controlled method for studying how people form, store, and retrieve associations in memory."
+A028,Forgetting-curve research,Cognitive Psychology,Memory experiments can be used to measure how information is retained or forgotten over time.
+A029,Clinical memory assessment,Neuropsychology / Medicine,Memory-testing paradigms can contribute to assessments of cognitive function and the detection of neurological impairment.
+A030,Primacy and recency research,Cognitive Psychology,Paired-list experiments allow researchers to investigate how the position of information within a sequence affects recall.
+A031,Chromosome karyotyping,Genetics / Medicine,Chromosome counting and visualization provide a diagnostic method for identifying numerical and structural chromosomal abnormalities.
+A032,Prenatal genetic diagnosis,Genetics / Medicine,Chromosomal analysis can be combined with other prenatal screening and diagnostic methods to identify genetic and chromosomal conditions before birth.
+A033,Diagnosis of chromosomal abnormalities,Genetics / Medicine,"Karyotyping and related cytogenetic methods can identify conditions involving abnormal chromosome number, translocations, and mosaicism."
+A034,Neuroplasticity research,Neuroscience,Environmental-enrichment experiments demonstrate that experience and environmental conditions can produce measurable structural changes in the brain.
+A035,Brain rehabilitation research,Neuroscience / Medicine,Research on experience-dependent brain plasticity contributes to scientific approaches for understanding recovery and adaptation after neurological injury.
+A036,Aging neuroscience,Neuroscience / Gerontology,Research demonstrating structural changes in older brains supports the study of how the brain changes and adapts throughout the lifespan.
+A037,Learning and cognitive development,Neuroscience / Education,Research on environmental enrichment and brain plasticity contributes to understanding how experience and environmental conditions affect learning and development.
+A038,Laboratory animal-care enrichment,Animal Science / Neuroscience,Environmental-enrichment research has influenced practices designed to provide laboratory and zoo animals with more stimulating environments.
+A039,Gene regulation research,Molecular Biology / Genetics,Lambda phage provides an experimental system for studying gene regulation and the molecular mechanisms controlling gene expression.
+A040,Lysogeny research,Microbiology / Virology,Lambda phage provides a model for studying how bacteriophages can enter and maintain a lysogenic state within bacterial cells.
+A041,Bacterial conjugation,Microbiology / Genetics,The F factor provides the molecular basis for understanding bacterial conjugation and the transfer of genetic material between cells.
+A042,Horizontal gene transfer,Microbiology / Genetics,Research on the F factor and bacterial conjugation helped establish mechanisms through which bacteria exchange genetic material.
+A043,Replica plating,Microbiology / Genetics,"Replica plating allows researchers to transfer hundreds of bacterial colonies while preserving their relative positions, enabling systematic screening for mutants."
+A044,Mutant screening,Microbiology / Genetics,"Replica-plating techniques allow researchers to identify bacterial colonies with specific phenotypes, including resistance to antibiotics or bacteriophages."
+A045,Molecular cloning,Molecular Biology / Genetics,Bacteriophage and bacterial genetics research contributed experimental foundations for manipulating and studying DNA in molecular biology.
+A046,Genetic engineering,Biotechnology / Genetics,"Understanding bacterial genetics, plasmids, gene transfer, and molecular cloning contributed to the development of genetic engineering."
+A047,Transposon-based gene tagging,Genetics / Molecular Biology,Transposable elements can be used as genetic tools to identify and study the function of genes.
+A048,Insertional mutagenesis,Genetics / Molecular Biology,Transposons can be inserted into genomes to disrupt genes and investigate their biological functions.
+A049,Functional genomics,Genomics / Genetics,Transposable elements provide tools for systematically investigating gene function and genome organization.
+A050,Genome evolution research,Genomics / Evolutionary Biology,Transposable elements contribute to genome structure and evolution and provide a means of studying how genomes change over time.
+A051,Modern theoretical physics,Mathematical Physics / Physics,Noether's theorem provides a mathematical framework connecting continuous symmetries with conservation laws.
+A052,Quantum mechanics,Physics / Mathematical Physics,Symmetry and conservation laws derived from Noether's theorem are fundamental tools in quantum mechanics.
+A053,Quantum field theory,Theoretical Physics,Noether's theorem provides a framework for connecting continuous symmetries with conserved quantities in quantum field theory.
+A054,Particle physics,Particle Physics,Symmetry principles and conservation laws are fundamental to the formulation and analysis of particle-physics theories.
+A055,Standard Model physics,Particle Physics / Theoretical Physics,Symmetries and associated conservation laws are central to the mathematical structure of the Standard Model.
+A056,General relativity,Theoretical Physics,Noether's work on invariant variational problems contributed mathematical methods for analyzing physical theories involving symmetry and conservation.
+A057,Commutative algebra,Mathematics / Abstract Algebra,Noetherian rings and the ascending-chain condition became foundational concepts in modern commutative algebra.
+A058,Algebraic geometry,Mathematics / Geometry,Noetherian methods provide important structural and finiteness results used throughout modern algebraic geometry.
+A059,Metabolic physiology,Biochemistry / Physiology,The Cori cycle explains how muscle and liver cooperate in carbohydrate metabolism during activity and other conditions requiring energy.
+A060,Exercise physiology,Physiology / Sports Science,The Cori cycle helps explain lactate metabolism and the interaction between skeletal muscle and liver during physical activity.
+A061,Glycogen metabolism,Biochemistry / Medicine,Research on glycogen phosphorylase and glucose-1-phosphate established important mechanisms underlying glycogen breakdown.
+A062,Enzyme regulation,Biochemistry / Molecular Biology,"Studies of glycogen phosphorylase helped establish principles of enzyme activation, inactivation, and regulation."
+A063,Diabetes research,Medicine / Metabolism,Understanding glycogen metabolism and enzyme regulation provides foundational biochemical knowledge for studying metabolic diseases including diabetes.
+A064,Glycogen-storage disease research,Medicine / Genetics,Research on glycogen metabolism provides the biochemical framework for understanding disorders involving abnormal glycogen storage or breakdown.
+A065,Tiger population monitoring,Wildlife Biology / Conservation,Camera trapping and individual identification methods improve monitoring and estimation of tiger populations.
+A066,Wildlife corridor conservation,Conservation Biology,Research on tiger habitat connectivity can identify and prioritize corridors connecting protected wildlife areas.
+A067,Human-wildlife conflict management,Conservation Biology / Ecology,Ecological research and community-based conservation strategies can help address conflicts between people and wildlife.
+A068,Fourier-transform infrared spectroscopy,Analytical Chemistry / Astronomy,FTIR spectroscopy uses interferometric methods to obtain detailed infrared spectra for analyzing molecular composition.
+A069,Planetary atmospheric analysis,Astronomy / Planetary Science,FTIR spectroscopy can measure infrared signatures in planetary atmospheres and determine their molecular composition.
+A070,Infrared spectroscopy,Physics / Chemistry,Interferometric spectroscopy provides high-resolution measurements of infrared radiation and molecular spectra.
+A071,Scientific computing,Computational Science,Scientific computing supports numerical analysis and processing of complex astronomical and spectroscopic data.
+A072,Classical mathematical astronomy,Mathematics / Astronomy,Hypatia's scholarship helped preserve and transmit mathematical and astronomical knowledge from classical antiquity.
+A073,Transmission of mathematical knowledge,History of Mathematics,"Mathematical commentaries helped preserve, clarify, and teach important works of ancient Greek mathematics."
+A074,Cell culture research,Cell Biology / Medicine,Tissue-culture methods allow researchers to study the behavior and responses of human cells under controlled experimental conditions.
+A075,Melanoma research,Cancer Biology / Medicine,"Tissue-culture studies of melanoma cells support research into cancer-cell growth, pigmentation, hormonal responses, and cellular behavior."
+A076,Cancer cell biology,Cancer Biology / Cell Biology,Experimental study of cancer cells provides methods for investigating how malignant cells grow and respond to biological factors.
+A077,Wildlife population assessment,Wildlife Biology / Conservation,Population surveys and monitoring methods support conservation planning for endangered species.
+A078,Indus River dolphin conservation,Conservation Biology / Wildlife Biology,Population monitoring and conservation strategies support recovery and protection of the endangered Indus River dolphin.
+A079,Protected-area management,Conservation Biology,Population and biodiversity assessments help conservation organizations design and evaluate protected-area management strategies.
+A080,River dolphin conservation standards,Conservation Biology,Standardized conservation frameworks can be used to evaluate and improve management of river-dolphin populations.
+A081,Insect metamorphosis research,Entomology,Systematic observations of insect life cycles established a more accurate understanding of metamorphosis from larva to adult.
+A082,Insect-plant relationship research,Entomology / Ecology,Observations of insects feeding on specific plants contributed to understanding ecological relationships between insects and their host plants.
+A083,Insect life-cycle documentation,Entomology / Natural History,Detailed field observations and illustrations provide evidence for the developmental stages and natural histories of insects.
+A084,Botanical and zoological illustration,Natural History / Scientific Illustration,"Scientific illustrations can document species morphology, life cycles, and ecological relationships for research and education."
+A085,Psychoanalytic theory,Psychology / Psychiatry,"Spielrein's theoretical work on destructive drives influenced the development of psychoanalytic ideas concerning transformation, sexuality, and human development."
+A086,Child psychology,Psychology,Research connecting psychoanalysis with child development contributed to emerging theories of childhood cognition and development.
+A087,Language development research,Psychology / Linguistics,Research on children's language and early words contributed to the study of language development and the relationship between language and thought.
+A088,Childbirth pain management,Medicine / Obstetrics,Use of plant-derived analgesic substances and medical treatments to help manage pain during childbirth.
+A089,Menstrual health treatment,Medicine / Gynecology,Treatments intended to regulate menstruation and the use of medicated pads or tampons for women's health.
+A090,Preventive medicine,Medicine / Public Health,Early advocacy for preventive approaches to health and disease management.
+A091,Dermatological treatment,Medicine / Dermatology,Descriptions of dermatological conditions and their manifestations contributed to the development of medieval and later approaches to skin disease.
+A092,Midwifery and obstetric practice,Medicine / Midwifery,Her writings on childbirth and women's health contributed to later European medical and midwifery practices.
